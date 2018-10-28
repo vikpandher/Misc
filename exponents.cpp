@@ -17,10 +17,6 @@ float exponentCalc(int iterations, int x)
     {
         return 0;
     } 
-    else if (iterations == 1)
-    {
-        return 1;
-    }
     else
     {
         float sum = 1;
